@@ -14,8 +14,8 @@ target/
 .sts4-cache
 
 ### keys ###
-/home/case/codes/spring-security-jwt/src/main/resources/app.key
-/home/case/codes/spring-security-jwt/src/main/resources/app.pub
+*.key
+*.pub
 
 ### IntelliJ IDEA ###
 .idea
